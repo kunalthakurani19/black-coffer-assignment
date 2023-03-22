@@ -1,0 +1,11 @@
+figure#chart {
+    background-color: #fff;
+    border: 1px solid #ccc;
+    padding: 10px;
+  }
+  
+  figure#chart svg {
+    width: 100%;
+    height: 100%;
+  }
+  
